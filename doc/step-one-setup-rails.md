@@ -1,4 +1,4 @@
-# The first steps : Set up a Rails app
+# Step 1 : Set up a Rails app
 
 Note : These could be done in the same file but I'm setting up everything like Rails normally does if you generate a project.
 
